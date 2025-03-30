@@ -1,0 +1,10 @@
+.\ht32\52352\cjson.o: ..\App\cJSON.c
+.\ht32\52352\cjson.o: D:\Keil\MDK\ARM\ARMCC\Bin\..\include\string.h
+.\ht32\52352\cjson.o: D:\Keil\MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\ht32\52352\cjson.o: D:\Keil\MDK\ARM\ARMCC\Bin\..\include\math.h
+.\ht32\52352\cjson.o: D:\Keil\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\ht32\52352\cjson.o: D:\Keil\MDK\ARM\ARMCC\Bin\..\include\limits.h
+.\ht32\52352\cjson.o: D:\Keil\MDK\ARM\ARMCC\Bin\..\include\ctype.h
+.\ht32\52352\cjson.o: D:\Keil\MDK\ARM\ARMCC\Bin\..\include\float.h
+.\ht32\52352\cjson.o: ..\App\cJSON.h
+.\ht32\52352\cjson.o: D:\Keil\MDK\ARM\ARMCC\Bin\..\include\stddef.h
